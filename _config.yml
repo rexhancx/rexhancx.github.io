@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chengxiao's Site"
+title                    : "Chengxiao's Website"
 title_separator          : "-"
 name                     : &name "Chengxiao Han"
 description              : &description "Digital Curriculum Vitae"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dark # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -93,27 +93,27 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  #flickr           :
-  #facebook         :
+  flickr           :
+  facebook         :
   foursquare       :
   github           : "rexhancx"
-  #google_plus      :
+  google_plus      :
   keybase          :
-  #instagram        :
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  #linkedin         :
+  linkedin         :
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  #stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   #twitter          : "replacethistwitterhandle"
   vine             :
-  #weibo            :
+  weibo            :
   xing             :
-  #youtube          :
+  youtube          :
   wikipedia        :
 
 
