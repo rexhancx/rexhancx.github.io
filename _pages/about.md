@@ -13,16 +13,8 @@ I am a master student in Department of Animal Science at Shanghai Jiao Tong Univ
 My current research focuses on chicken genome editing, CRISPR-Cas9 genome editing, genome editing frequency determination, etc. I am very open to collaborating with others and have tried other life science field, e.g., cancer research, neroscience, etc.
 
 ---
-permalink: /
-title: "Education"
-excerpt: "Education"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+ Education
 ---
-
-
 
 M.Agr. of Zootechny, Shanghai Jiao Tong University, Sep 2018 - Mar 2021
 Department of Animal Scicence, School of Agriculture and Biology
