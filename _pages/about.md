@@ -12,7 +12,7 @@ redirect_from:
 
 I am a master student in Department of Animal Science at Shanghai Jiao Tong University advised by Prof. He Meng.
 
-My current research focuses on chicken genome editing, CRISPR-Cas9 genome editing, genome editing frequency determination, etc. I am very open to collaborating with others and have tried other life science field, e.g., cancer research, neroscience, etc.
+My current research focuses on __chicken genome editing, CRISPR-Cas9 genome editing, genome editing frequency determination__, etc. I am very open to collaborating with others and have tried other life science field, e.g., cancer research, neroscience, etc.
 
 # Education
 
