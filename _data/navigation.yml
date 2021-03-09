@@ -4,14 +4,14 @@ main:
     url: /
 
   - title: "Research"
-    url: /Research/    
+    url: /research/    
 
   - title: "Publications"
-    url: /Publication/    
+    url: /publications/    
     
   - title: "Miscellaneous"
-    url: /Miscellaneous/
+    url: /miscellaneous/
 
   - title: "Résumé"
-    url: /Résumé/
+    url: /resume/
     
