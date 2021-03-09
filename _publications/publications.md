@@ -1,13 +1,18 @@
----
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
+## Journal Articles
+* Effective *MSTN* Gene Knockout by AdV-Delivered CRISPR/Cas9 in Postnatal Chick Leg Muscle
+Ke Xu, __Cheng Xiao Han (co-first)__, Hao Zhou, Jin Mei Ding, Zhong Xu, Ling Yu Yang, Chuan He, Fisayo Akinyemi, Yu Ming Zheng, Chao Qin, Huai Xi Luo and He Meng<sup> * </sup>
+*published in International Journal of Molecular Science, Apr 2020, [paperlink](https://www.mdpi.com/1422-0067/21/7/2584)*
+
+##Conference Articles
+* 1
+
+* 2
+
+* 3
+
+# Patents
+* A Fast and Accurate Workflow for Gene Editing Efficiency and Pattern Detection and Its Application
+__Chengxiao Han__, Ke Xu, Hao Zhou, Chuan He, Jinmei Ding, Chao Qin, Huaixi Luo, He Meng
+*CN112322714A, filed on 18 Nov 2020, published on 22 Feb 2021*
 
 
