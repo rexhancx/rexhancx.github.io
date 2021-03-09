@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Miscellar"
 permalink: /publications/
 author_profile: true
 ---
