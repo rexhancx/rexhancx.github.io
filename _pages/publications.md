@@ -7,7 +7,9 @@ author_profile: true
 
 ## Journal Articles
 * Effective *MSTN* Gene Knockout by AdV-Delivered CRISPR/Cas9 in Postnatal Chick Leg Muscle
+
 Ke Xu, __Cheng Xiao Han (co-first)__, Hao Zhou, Jin Mei Ding, Zhong Xu, Ling Yu Yang, Chuan He, Fisayo Akinyemi, Yu Ming Zheng, Chao Qin, Huai Xi Luo and He Meng<sup> * </sup>
+
 *published in International Journal of Molecular Science, Apr 2020, [paperlink](https://www.mdpi.com/1422-0067/21/7/2584)*
 
 ##Conference Articles
