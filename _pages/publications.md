@@ -11,13 +11,13 @@ author_profile: true
   Ke Xu, __Chengxiao Han (co-first)__, Hao Zhou, Jinmei Ding, Zhong Xu, Lingyu Yang, Chuan He, Fisayo Akinyemi, Yuming Zheng, Chao Qin, Huaixi Luo and He Meng<sup> * </sup>  
   __*International Journal of Molecular Science*__  
   published on Apr 2020 [paperlink](https://www.mdpi.com/1422-0067/21/7/2584)
-<br></br>
+<br>
 ## __Conference Abstract__
 * __*MSTN* gene knockout changes the transcriptome profile in chick leg muscle__  
   Ke Xu, __Chengxiao Han__, Hao Zhou, Jinmei Ding, Zhong Xu, Linyu Yang, Chuan He, Fisayo Akinyemi, Yumin Zheng, Chao Qin, Huaixi Luo and He Meng<sup> * </sup>    
   __*World Poultry Science Association Congress 2021*__  
   Accepted on Apr 2020  
-<br></br>
+<br>
 
 # __Patent__
 * __A Fast and Accurate Workflow for Gene Editing Efficiency and Pattern Detection and Its Application__  
