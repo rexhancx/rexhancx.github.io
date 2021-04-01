@@ -68,7 +68,7 @@ __Construction of Tn5-inserted Mutations in *tal* Genes of *Xag*__
 
 ## Miscellaneous
 * Programming
-  - Skilled: Bash, Conda, Python3, HTML5, CSS (skilled)
+  - Skilled: Bash, Conda, Python3, HTML5, CSS
   - Learnt: R, C++
 * Languages
   - Native: Mandarin
