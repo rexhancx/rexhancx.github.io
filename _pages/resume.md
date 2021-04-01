@@ -65,7 +65,6 @@ __Construction of Tn5-inserted Mutations in *tal* Genes of *Xag*__
 	
 * Registered Narrator	at Shanghai Zoo, Shanghai, China  
   Mar 2015 – Jun 2016, Anniversary Outstanding Volunteer
-<br></br>
 
 ## Miscellaneous
 * Programming
