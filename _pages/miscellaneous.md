@@ -18,4 +18,4 @@ author_profile: true
   - Video-game
   - Swimming
   - Badminton
-  - donnot play table-tennis at all 
+  - donnot play table-tennis at all
