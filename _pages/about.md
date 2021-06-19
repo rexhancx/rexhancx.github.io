@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## __About me__
+## __About__
 
- I'm Chengxiao (Rex) Han. I recieved my Bachelor and Master degree in Department of Animal Science at Shanghai Jiao Tong University, advised by Prof. He Meng.
+ I'm Chengxiao (Rex) Han. I recieved my Bachelor and Master degree in Department of Animal Science, Shanghai Jiao Tong University, advised by Prof. He Meng.
 
- My current research interests lie at the __chicken genome editing using CRISPR/Cas system__. I am passionate about applying advanced biotechnology to ground and in the meantime I am very open to collaborating with others and have tried other life science field, e.g., cancer research, microbiology research.
+ My current research interests lie at the __chicken genome editing using CRISPR/Cas system__. I am passionate about applying advanced biotechnology and in the meantime I am very open to collaborating with others.
 
-[Curriculum Vitae](https://rexhancx.github.io/files/cv.pdf).
+[Curriculum Vitae](https://rexhancx.github.io/files/Chengxiao_Han_CV.pdf)
   <br>
 
 <!--
@@ -30,14 +30,15 @@ redirect_from:
 
 ## __Education__
 
-* __MSc in Animal Science__, Shanghai Jiao Tong University (SJTU), Shanghai, China (Sept 2018 - Mar 2021)
-  - Cumulative GPA: 3.73/4.0 
-  - Core courses: Cell Biology (A+), Animal Genomics (A), Quantitative Genetics (A), Veterinary Molecular Immunology (A)
-  - Major: Animal Genetics and Breeding
+* __MSc in Animal Science__, Shanghai Jiao Tong University (SJTU), Shanghai, China (Sept 2018 - Mar 2021)  
+  Major: Animal Genetics and Breeding
+  Cumulative GPA: 3.73/4.0  
+  Core courses: Cell Biology (A+), Animal Genomics (A), Quantitative Genetics (A), Veterinary Molecular Immunology (A)  
+  
 
-* __BSc in Animal Science__, Shanghai Jiao Tong University, Shanghai, China (Sept 2014 - Jun 2018)
-  - Cumulative GPA: 3.56/4.0
-  - Core courses: Genetics (96/100), Bioinformatics (95/100), Biostatistics (94/100), Animal Microbiology (92/100)
+* __BSc in Animal Science__, Shanghai Jiao Tong University, Shanghai, China (Sept 2014 - Jun 2018)  
+Cumulative GPA: 3.56/4.0  
+Core courses: Genetics (96/100), Bioinformatics (95/100), Biostatistics (94/100), Animal Microbiology (92/100)  
 <br>
 
 ## __Honors, Awards and Memberships__
