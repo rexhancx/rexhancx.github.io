@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /miscellaneous/
+permalink: /misc/
 author_profile: true
 ---
 ## __Leadership Experience__
