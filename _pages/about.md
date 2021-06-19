@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## __Chengxiao Han__
-
  I recieved my Bachelor and Master degree in Department of Animal Science, Shanghai Jiao Tong University, advised by [Prof. He Meng](http://www.agri.sjtu.edu.cn/Data/View/2258).
 
  My current research interests lie at the __chicken genome editing using CRISPR/Cas system__. I am passionate about applying advanced biotechnology and in the meantime I am very open to collaborating with others.
