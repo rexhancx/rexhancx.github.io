@@ -4,8 +4,6 @@ title: ""
 permalink: /miscellaneous/
 author_profile: true
 ---
-
-# __Miscellaneous__
 ## __Leadership Experience__  
 * __Class President__ of B1815092, SJTU (2018-2021)    
 * __Vice Director__ of the Secretariat, Graduate Student Union of School, SJTU (2019-2020)    

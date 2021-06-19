@@ -4,7 +4,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
 ## __Journal Articles__
 * __Chicken *TYR* Gene Knockout through Directly Injection of Adenoviral CRISPR-Cas9 Vectors into Dorsal Aorta__  
 __C. Han* (Co-first)__, K. Xu*, H. Zhou, J. Ding, C. He, F. Akinyemi, C. Qin, H. Luo, H. Meng  
