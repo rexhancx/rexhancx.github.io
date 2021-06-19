@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chengxiao's Website"
+title                    : "Chengxiao Han"
 title_separator          : "-"
 name                     : &name "Chengxiao Han"
-description              : &description "Digital Curriculum Vitae"
+description              : &description "Digital Curriculum Vitae of Chengxiao Han"
 url                      : https://rexhancx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rexhancx/rexhancx.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chengxiao Han"
   avatar           : "profile.png"
-  bio              : "Master Graduate in Animal Science @ Shanghai Jiao Tong University"
+  bio              : "MSc in Animal Science @ Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/chengxiao-rex-han-78382b212/"
+  orcid            : "https://orcid.org/0000-0003-0767-7818"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

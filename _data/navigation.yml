@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Home"
-    url: /
-
   - title: "Research"
     url: /research/    
 
@@ -12,6 +9,4 @@ main:
   - title: "Miscellaneous"
     url: /miscellaneous/
 
-  - title: "Résumé"
-    url: /resume/
     

@@ -10,9 +10,11 @@ redirect_from:
 
 # __About me__
 
- I am master graduate in Department of Animal Science at Shanghai Jiao Tong University supervised by Professor He Meng.
+ I'm Chengxiao (Rex) Han. I recieved my Bachelor and Master degree in Department of Animal Science at Shanghai Jiao Tong University, advised by Prof. He Meng.
 
- My current research focuses on __chicken genome editing using CRISPR/Cas9 system__. I am very open to collaborating with others and have tried other life science field, e.g., cancer research, microbiology research.
+ My current research interests lie at the __chicken genome editing using CRISPR/Cas system__. I am passionate about applying advanced biotechnology to ground and in the meantime I am very open to collaborating with others and have tried other life science field, e.g., cancer research, microbiology research.
+
+This is my [Curriculum Vitae](https://rexhancx.github.io/files/cv.pdf).
   <br>
 
 # __Recent News__
