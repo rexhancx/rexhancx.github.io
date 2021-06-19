@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# __About me__
+## __About me__
 
  I'm Chengxiao (Rex) Han. I recieved my Bachelor and Master degree in Department of Animal Science at Shanghai Jiao Tong University, advised by Prof. He Meng.
 
@@ -28,14 +28,25 @@ redirect_from:
 <br>
 -->
 
-# __Education__
+## __Education__
 
-* MSc in Animal Science, Shanghai Jiao Tong University, Shanghai, China (Sep 2018 - Mar 2021)
-  - Cumulative GPA 3.73/4.0 
+* MSc in Animal Science, Shanghai Jiao Tong University (SJTU), Shanghai, China (Sept 2018 - Mar 2021)
+  - Cumulative GPA: 3.73/4.0 
   - Core courses: Cell Biology (A+), Animal Genomics (A), Quantitative Genetics (A), Veterinary Molecular Immunology (A)
   - Major: Animal Genetics and Breeding
 
-* BSc in Animal Science, Shanghai Jiao Tong University, Shanghai, China (Sep 2014 - Jun 2018)
-  - Cumulative GPA 3.56/4.0
+* BSc in Animal Science, Shanghai Jiao Tong University, Shanghai, China (Sept 2014 - Jun 2018)
+  - Cumulative GPA: 3.56/4.0
   - Core courses: Genetics (96/100), Bioinformatics (95/100), Biostatistics (94/100), Animal Microbiology (92/100)
 <br>
+
+## __HONORS, AWARDS AND MENBERSHIPS__
+- Outstanding Graduate of SJTU (2021)
+- National Scholarship for Postgraduates (Top 0.5% over China, 2020)
+- resumeItem{Membership of World Poultry Science Association (WPSA) (2019-Present)
+- Membership of Chinese Society for Cell Biology (CSCB) (2018, 2021)
+- First-class Scholarship of SJTU (Top 3%, 2017)
+- Second-class Scholarship of SJTU (2016)
+- Merit Student of SJTU (Top 3%, 2016)
+- Anniversary Outstanding Volunteer of Shanghai Zoo (2015-2016)
+- Excellent League Member of SJTU (Top 3%, 2015)
