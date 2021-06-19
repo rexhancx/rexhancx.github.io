@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## __Current Research__  
-
+---
 >My current research is about animal genome editing using CRISPR-Cas system.<br>
 My research goal is to generate gene-edited chicken. My past works focus on (1)using adenoviral CRISPR-Cas9 vector to generate gene-edited chicken, (2) progressing exist methods to low-cost and practical.
 
@@ -26,7 +26,7 @@ Nov 2017 - Jun 2018
 
 
 ## __Undergraduate Interns and Projects__
-
+---
 __Model Liver Cancer in Mice using CRISPR/Cas System__  
 __Research Intern__ at Shanghai Public Health Clinical Center, Shanghai, China  
 Advisor: A.P. Shun Li  
@@ -54,8 +54,10 @@ __Research Project Leader__ at Shanghai Jiao Tong University, Shanghai, China
 * To construct Tn5-inserted mutations in *tal* genes of *Xag*, delivered Tn5 transposon vector into bacteria by electro-transformation, confirmed the insertion of Tn5 in *tal* genes by southern blotting. 
 * Published one Chinese core article as second author.
 
+<br>
 
-## __Teaching and Mentoring__
+## __Teaching and Mentoring__  
+---
 * __Teaching Assistant__ of Four Courses (2019-2021)  
     - The Lectures of Advanced Animal Science (ASCI8003; graduate level, 2020-2021)  
      - History of Life Science (BI901,×2; BI022; National Outstanding Course, 2019-2020)  

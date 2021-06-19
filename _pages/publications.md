@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## __Journal Articles__
-
+---
 * __Chicken *TYR* Gene Knockout through Directly Injection of Adenoviral CRISPR-Cas9 Vectors into Dorsal Aorta__  
 __C. Han* (Co-first)__, K. Xu*, H. Zhou, J. Ding, C. He, F. Akinyemi, C. Qin, H. Luo, H. Meng  
 In progress
@@ -31,7 +31,7 @@ Published
 <br>
 
 ## __Conference Abstracts__
-
+---
 * __A Low-cost and Practical Workflow based on Amplicon Sequencing for Analyzing CRISPR-induced Mutations__  
  __C. Han__, K. Xu, H. Zhou, C. Qin, H. Luo, J. Ding, H. Meng  
 __*16th Biology Youth Forum (Shanghai Society of Cell Biology)*__, Shanghai, China  
@@ -54,7 +54,7 @@ Published
 
 
 ## __Patent__
-
+---
 * __A Fast and Accurate Workflow for Gene Editing Efficiency and Pattern Detection and Its Application__  
   __C. Han__, K. Xu, H. Zhou, C. He, J. Ding, C. Qin, H. Luo and H. Meng  
   Patent ID: __CN112322714A__

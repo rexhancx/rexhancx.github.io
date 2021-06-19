@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## __About__  
-
+---
 I recieved my Bachelor and Master degree in Department of Animal Science, Shanghai Jiao Tong University, advised by [Prof. He Meng](http://www.agri.sjtu.edu.cn/Data/View/2258).   
 My current research interests lie at the __chicken genome editing using CRISPR/Cas system__. I am passionate about applying advanced biotechnology and in the meantime I am very open to collaborating with others.  
 [Curriculum Vitae](https://rexhancx.github.io/files/Chengxiao_Han_CV.pdf)
@@ -26,7 +26,7 @@ My current research interests lie at the __chicken genome editing using CRISPR/C
 -->
 
 ## __Education__
-
+---
 * __MSc in Animal Science, Shanghai Jiao Tong University (SJTU)__  
   Shanghai, China (Sept 2018 - Mar 2021)  
   Major: Animal Genetics and Breeding  
@@ -40,7 +40,8 @@ Cumulative GPA: 3.56/4.0
 Core courses: Genetics (96/100), Bioinformatics (95/100), Biostatistics (94/100), Animal Microbiology (92/100)
 <br>
 
-## __Honors, Awards and Memberships__
+## __Honors, Awards and Memberships__  
+---
 - Outstanding Graduate of SJTU (2021)
 - National Scholarship for Postgraduates (Top 0.5% over China, 2020)
 - Membership of World Poultry Science Association (WPSA) (2019-Present)
