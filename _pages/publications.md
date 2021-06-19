@@ -57,4 +57,4 @@ Published
 
 * __A Fast and Accurate Workflow for Gene Editing Efficiency and Pattern Detection and Its Application__  
   __C. Han__, K. Xu, H. Zhou, C. He, J. Ding, C. Qin, H. Luo and H. Meng  
-  Patent ID: __*CN112322714A*__
+  Patent ID: __CN112322714A__
