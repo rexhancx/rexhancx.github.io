@@ -17,7 +17,7 @@ In progress
 * __Effective *MSTN* Gene Knockout by AdV-Delivered CRISPR/Cas9 in Postnatal Chick Leg Muscle__  
     K. Xu, __C. Han (Co-first)__, H. Zhou, J. Ding, Z. Xu, L. Yang, C. He, F. Akinyemi, Y. Zheng, C. Qin, H. Luo and H. Meng  
   __*International Journal of Molecular Science*__  
-  [Published](https://www.mdpi.com/1422-0067/21/7/2584)
+  Published [[Online]](https://www.mdpi.com/1422-0067/21/7/2584) [[pdf]](https://rexhancx.github.io/files/ijms-21-02584-v2.pdf)
 
 * __Analysis of Growth, Carcass and Meat Quality Traits in Pudong Hybrid Chickens__  
 Y. Zheng, K. Yang, __C. Han__, C. Lei, H. Luo, C. Qin, K. Xu, J. Ding, H. Zhou, C. He, F. Akinyemi, C. Gu, Z. Zhou, L. Zhao, X. Lu, W. Zhu, W. Xu, Q. Huang, H. Meng  

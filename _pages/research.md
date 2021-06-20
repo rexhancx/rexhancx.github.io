@@ -10,15 +10,19 @@ author_profile: true
 My research goal is to generate gene-edited chicken. My past works focus on (1)using adenoviral CRISPR-Cas9 vector to generate gene-edited chicken, (2) progressing exist methods to low-cost and practical.
 
 __Chicken *Tyrosinase* Gene Knockout through Dorsal Aorta Direct Injection of Adenoviral CRISPR/Cas9 Vector__  
-As Master dissertation, advisor: Prof. He Meng  
+Master dissertation, advisor: Prof. He Meng  
 Jul 2018 - Present
 * To investigate the underlying regulatory mechanisms of chicken melanin production and accumulation, achieved *Tyrosinase* gene knockout on black chicken through embryonic dorsal aorta injection of adenoviral Cas9 vector.
 * To analyze CRISPR-induced genome mutations accurately and more cheaply, developed a low-cost and practical workflow based on amplicon sequencing.
 * Validating *Tyrosinase* gene function by RNA-seq and working on two journal articles.
 
-__Chicken Leg Muscle *in vivo* *Myostain* Gene Knockout  through Direct Injection of Adenoviral CRISPR/Cas9 Vector__  
-As Bachelor dissertation, advisor: Prof. He Meng  
+
+
+__Chicken Leg Muscle *In Vivo* *Myostain* Gene Knockout  through Direct Injection of Adenoviral CRISPR/Cas9 Vector__  
+Bachelor dissertation, advisor: Prof. He Meng  
 Nov 2017 - Jun 2018
+
+
 * To investigate the underlying regulatory mechanisms of chicken muscle growth and development, achieved in vivo *Myostain* gene knockout on broiler leg muscle through direct injection of adenoviral Cas9 vector and validated *Myostain* gene function by RNA-seq and *in vivo* fluorescence imaging.  
 
 
