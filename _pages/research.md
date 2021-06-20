@@ -25,8 +25,7 @@ Nov 2017 - Jun 2018
 
 * To investigate the underlying regulatory mechanisms of chicken muscle growth and development, achieved in vivo *Myostain* gene knockout on broiler leg muscle through direct injection of adenoviral Cas9 vector and validated *Myostain* gene function by RNA-seq and *in vivo* fluorescence imaging.  
 
-<img src="/images/ijms1.png">
-<img src="/images/ijms2.png">  
+<img src="/images/ijms.png">
 
 
 
@@ -38,7 +37,10 @@ Nov 2017 - Jun 2018
 
 ## __Undergraduate Interns and Projects__
 ---
-__Model Liver Cancer in Mice using CRISPR/Cas System__  
+> ddd 
+
+
+__Modeling Liver Cancer in Mice using CRISPR/Cas System__  
 __Research Intern__ at Shanghai Public Health Clinical Center, Shanghai, China  
 Advisor: A.P. Shun Li  
 Jun 2017 – Aug 2017
