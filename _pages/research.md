@@ -23,7 +23,8 @@ Bachelor dissertation, advisor: Prof. He Meng
 Nov 2017 - Jun 2018
 
 
-* To investigate the underlying regulatory mechanisms of chicken muscle growth and development, achieved in vivo *Myostain* gene knockout on broiler leg muscle through direct injection of adenoviral Cas9 vector and validated *Myostain* gene function by RNA-seq and *in vivo* fluorescence imaging.  
+* To verify whether postnatal gene editing could be achieved in chick muscles and determine the transcriptomic changes, we knocked out *Myostatin*, a potential inhibitor of muscle growth and development, in broiler leg muscle and performed transcriptome analysis on knock-out (KO) muscles and wild-type (WT) muscles.
+To investigate the underlying regulatory mechanisms of chicken muscle growth and development, achieved in vivo *Myostain* gene knockout on  leg muscle through direct injection of adenoviral Cas9 vector and validated *Myostain* gene function by RNA-seq and *in vivo* fluorescence imaging.  
 
 <img src="/images/ijms.png">
 

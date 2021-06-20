@@ -15,12 +15,8 @@ author_profile: true
      
 ## __Programming__
 ---
-  - Python, HTML5/CSS, R
-  - VS Code, Google Cloud, LaTeX
-  - Linux, Github, WordPress
+  - Python, HTML5/CSS, R; VS Code, Google Cloud, LaTeX; Linux, Github, WordPress
 
 ## __Language__
 ---
-  - Chinese (native)
-  - English (fluent)
-  - Japanese (undergraduate minor)
+  - Chinese (native), English (fluent), Japanese (undergraduate minor) 
