@@ -17,7 +17,7 @@ Jul 2018 - Present
 
 * To investigate the underlying regulatory mechanisms of chicken melanin production and accumulation, achieved *Tyrosinase* gene knockout on black chicken through embryonic dorsal aorta injection of adenoviral Cas9 vector.
 
-<img src="/images/seq.png" width="550">
+<img src="/images/seq.png">
 
 * To analyze CRISPR-induced genome mutations accurately and more cheaply, developed a low-cost and practical workflow based on amplicon sequencing.
 * Validating *Tyrosinase* gene function by RNA-seq and working on two journal articles.
@@ -34,9 +34,6 @@ To investigate the underlying regulatory mechanisms of chicken muscle growth and
 
 <img src="/images/ijms.png" width="550">
 
-
-
-
   
 <br>  
 
@@ -44,8 +41,8 @@ To investigate the underlying regulatory mechanisms of chicken muscle growth and
 
 ## __Undergraduate Interns and Projects__
 ---
-> This part of the experience focused on the cultivation of ability and the exploration of various aspects.  
-It includes bacterial genome studies, reproductive toxicology studies, and a bite of genome editing.
+> This part of the experience focused on the cultivation of basic research skills and the exploration of several biology fields.  
+> It includes bacteria-host gene interaction, mammal reproductive toxicology, and a bite of CRISPR-Cas genome editing.
 
 
 __Modeling Liver Cancer in Mice using CRISPR/Cas System__  
@@ -79,13 +76,14 @@ __Research Project Leader__ at Shanghai Jiao Tong University, Shanghai, China
 
 ## __Teaching and Mentoring__  
 ---
-> During my time at SJTU, I responsible for teach assistant and mentor of undergraduate students.  
-> As a teach assistant, I help teacher assigning tasks, 
+>During my study in Shanghai Jiao Tong University, I were teaching assistant and mentor for undergraduates.  
+>As a teaching assistant, I assisted teachers in managing student check-in, handing out assignment on Canvas, collecting homework, and organizing students presentation.  
+>As a mentor, I helped undergraduates to write detailedexperimental plans, supervise the implementation of plans and give opinions on their graduation defense.
 
 * __Teaching Assistant__ of Four Courses (2019-2021)  
     - The Lectures of Advanced Animal Science (ASCI8003; graduate level, 2020-2021)  
      - History of Life Science (BI901,×2; BI022; National Outstanding Course, 2019-2020)  
-* __Mentor__ of Four Undergraduate Students(2018-2021)  
+* __Mentor__ of Four Undergraduate Students (2018-2021)  
     - Database construction of microsatellite molecular markers in bactrian camels (Ms. L. Bei, 2021)  
     - Recognition and counting of chicken pores based on computer vision (Mr. C. Lei, 2021)  
     - SARS-CoV-2 nucleic acid detection with CRISPR-Cas13 (Mr. C. Qin, 2020)  
