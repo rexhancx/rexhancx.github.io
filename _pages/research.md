@@ -16,6 +16,9 @@ Jul 2018 - Present
 <img src="/images/tyr1.png" width="300">
 
 * To investigate the underlying regulatory mechanisms of chicken melanin production and accumulation, achieved *Tyrosinase* gene knockout on black chicken through embryonic dorsal aorta injection of adenoviral Cas9 vector.
+
+<img src="/images/seq.png">
+
 * To analyze CRISPR-induced genome mutations accurately and more cheaply, developed a low-cost and practical workflow based on amplicon sequencing.
 * Validating *Tyrosinase* gene function by RNA-seq and working on two journal articles.
 
@@ -29,7 +32,7 @@ Nov 2017 - Jun 2018
 * To verify whether postnatal gene editing could be achieved in chick muscles and determine the transcriptomic changes, we knocked out *Myostatin*, a potential inhibitor of muscle growth and development, in broiler leg muscle and performed transcriptome analysis on knock-out (KO) muscles and wild-type (WT) muscles.
 To investigate the underlying regulatory mechanisms of chicken muscle growth and development, achieved in vivo *Myostain* gene knockout on  leg muscle through direct injection of adenoviral Cas9 vector and validated *Myostain* gene function by RNA-seq and *in vivo* fluorescence imaging.  
 
-<img src="/images/ijms.png">
+<img src="/images/ijms.png" width="300">
 
 
 
