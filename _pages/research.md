@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## __Current Research__  
 ---
->My current research is about animal genome editing using CRISPR-Cas system.<br>
+>My current research is about chicken genome editing using CRISPR-Cas system.<br>
 My research goal is to generate gene-edited chicken. My past works focus on (1)using adenoviral CRISPR-Cas9 vector to generate gene-edited chicken, (2) progressing exist methods to low-cost and practical.
 
 __Chicken *Tyrosinase* Gene Knockout through Dorsal Aorta Direct Injection of Adenoviral CRISPR/Cas9 Vector__  
@@ -32,7 +32,7 @@ Nov 2017 - Jun 2018
 * To verify whether postnatal gene editing could be achieved in chick muscles and determine the transcriptomic changes, we knocked out *Myostatin*, a potential inhibitor of muscle growth and development, in broiler leg muscle and performed transcriptome analysis on knock-out (KO) muscles and wild-type (WT) muscles.
 To investigate the underlying regulatory mechanisms of chicken muscle growth and development, achieved in vivo *Myostain* gene knockout on  leg muscle through direct injection of adenoviral Cas9 vector and validated *Myostain* gene function by RNA-seq and *in vivo* fluorescence imaging.  
 
-<img src="/images/ijms.png" width="550">
+<img src="/images/ijms.png" width="650">
 
   
 <br>  
