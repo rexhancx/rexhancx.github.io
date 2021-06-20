@@ -65,7 +65,7 @@ __Construction of Tn5-inserted Mutations in *Tal* Genes of *Xag*__
 __Research Project Leader__ at Shanghai Jiao Tong University, Shanghai, China  
  Advisor: Prof. Gongyou Chen  
  Mar 2015 – Mar 2016
-* To obtain *Xanthomonas axonopodis pv. glycines* (*Xag*) bacteria, isolated *Xag* from diseased soybean.
+* To obtain *Xanthomonas axonopodis* pv. *glycines* (*Xag*) bacteria, isolated *Xag* from diseased soybean.
 * To construct Tn5-inserted mutations in *tal* genes of *Xag*, delivered Tn5 transposon vector into bacteria by electro-transformation, confirmed the insertion of Tn5 in *tal* genes by southern blotting. 
 * Published one Chinese core article as second author.
 
