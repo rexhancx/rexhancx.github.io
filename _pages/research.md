@@ -13,7 +13,7 @@ __Chicken *Tyrosinase* Gene Knockout through Dorsal Aorta Direct Injection of Ad
 Master dissertation, advisor: Prof. He Meng  
 Jul 2018 - Present
 
-<img src="/images/tyr1.png">
+<img src="/images/tyr1.png" width="300">
 
 * To investigate the underlying regulatory mechanisms of chicken melanin production and accumulation, achieved *Tyrosinase* gene knockout on black chicken through embryonic dorsal aorta injection of adenoviral Cas9 vector.
 * To analyze CRISPR-induced genome mutations accurately and more cheaply, developed a low-cost and practical workflow based on amplicon sequencing.
