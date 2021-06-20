@@ -27,7 +27,7 @@ My current research interest lies at genome editing using CRISPR/Cas system. I'm
 
 ## __Education__
 
-* __MSc in Animal Science, SJTU (Sept 2018 - Mar 2021)__  
+* __MSc with Honors in Animal Science, SJTU (Sept 2018 - Mar 2021)__  
   Major: Animal Genetics and Breeding  
   Cumulative GPA: 3.73/4.0  
   Core Courses: Cell Biology (A+), Animal Genomics (A), Quantitative Genetics (A), Veterinary Molecular Immunology (A)
