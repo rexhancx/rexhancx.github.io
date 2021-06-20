@@ -25,11 +25,15 @@ Nov 2017 - Jun 2018
 
 * To investigate the underlying regulatory mechanisms of chicken muscle growth and development, achieved in vivo *Myostain* gene knockout on broiler leg muscle through direct injection of adenoviral Cas9 vector and validated *Myostain* gene function by RNA-seq and *in vivo* fluorescence imaging.  
 
+<img src="/images/ijms1.png">
+<img src="/images/ijms2.png">  
 
 
 
 
-<br>
+  
+<br>  
+
 
 
 ## __Undergraduate Interns and Projects__
