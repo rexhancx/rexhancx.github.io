@@ -38,7 +38,8 @@ To investigate the underlying regulatory mechanisms of chicken muscle growth and
 
 ## __Undergraduate Interns and Projects__
 ---
-> ddd 
+> This part of the experience focused on the cultivation of ability and the exploration of various aspects.  
+It includes bacterial genome studies, reproductive toxicology studies, and a bite of genome editing.
 
 
 __Modeling Liver Cancer in Mice using CRISPR/Cas System__  
@@ -72,6 +73,9 @@ __Research Project Leader__ at Shanghai Jiao Tong University, Shanghai, China
 
 ## __Teaching and Mentoring__  
 ---
+> During my time at SJTU, I responsible for teach assistant and mentor of undergraduate students.  
+> As a teach assistant, I help teacher assigning tasks, 
+
 * __Teaching Assistant__ of Four Courses (2019-2021)  
     - The Lectures of Advanced Animal Science (ASCI8003; graduate level, 2020-2021)  
      - History of Life Science (BI901,×2; BI022; National Outstanding Course, 2019-2020)  
