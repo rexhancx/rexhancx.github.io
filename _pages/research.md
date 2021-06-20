@@ -12,6 +12,9 @@ My research goal is to generate gene-edited chicken. My past works focus on (1)u
 __Chicken *Tyrosinase* Gene Knockout through Dorsal Aorta Direct Injection of Adenoviral CRISPR/Cas9 Vector__  
 Master dissertation, advisor: Prof. He Meng  
 Jul 2018 - Present
+
+<img src="/images/tyr1.png">
+
 * To investigate the underlying regulatory mechanisms of chicken melanin production and accumulation, achieved *Tyrosinase* gene knockout on black chicken through embryonic dorsal aorta injection of adenoviral Cas9 vector.
 * To analyze CRISPR-induced genome mutations accurately and more cheaply, developed a low-cost and practical workflow based on amplicon sequencing.
 * Validating *Tyrosinase* gene function by RNA-seq and working on two journal articles.
