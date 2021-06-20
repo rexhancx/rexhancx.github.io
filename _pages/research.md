@@ -81,10 +81,10 @@ __Research Project Leader__ at Shanghai Jiao Tong University, Shanghai, China
 >As a mentor, I helped undergraduates to write detailedexperimental plans, supervise the implementation of plans and give opinions on their graduation defense.
 
 * __Teaching Assistant__ of Four Courses (2019-2021)  
-    - The Lectures of Advanced Animal Science (ASCI8003; graduate level, 2020-2021)  
-     - History of Life Science (BI901,×2; BI022; National Outstanding Course, 2019-2020)  
+      - The Lectures of Advanced Animal Science (ASCI8003; graduate level, 2020-2021)  
+       - History of Life Science (BI901,×2; BI022; National Outstanding Course, 2019-2020)  
 * __Mentor__ of Four Undergraduate Students (2018-2021)  
-    - Database construction of microsatellite molecular markers in bactrian camels (Ms. L. Bei, 2021)  
-    - Recognition and counting of chicken pores based on computer vision (Mr. C. Lei, 2021)  
-    - SARS-CoV-2 nucleic acid detection with CRISPR-Cas13 (Mr. C. Qin, 2020)  
-    - Chicken *HEMGN* gene knockout in DF-1 cells using CRISPR-Cas9 (Ms. H. Luo, 2018)  
+      - Database construction of microsatellite molecular markers in bactrian camels (Ms. L. Bei, 2021)  
+      - Recognition and counting of chicken pores based on computer vision (Mr. C. Lei, 2021)  
+      - SARS-CoV-2 nucleic acid detection with CRISPR-Cas13 (Mr. C. Qin, 2020)  
+      - Chicken *HEMGN* gene knockout in DF-1 cells using CRISPR-Cas9 (Ms. H. Luo, 2018)  
