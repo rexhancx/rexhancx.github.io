@@ -7,41 +7,35 @@ author_profile: true
 ## __Current Research__  
 ---
 >All my current research is advised by [Prof. He Meng](http://www.agri.sjtu.edu.cn/En/Data/View/2947) at Shanghai Key Laboratory of Veterinary Biotechnology, SJTU.  
-The final goal of my current research is to figure out the function and mechanism of several important genes which severely influence the production traits, apparent traits, or disease resistances of chicken, such as *MSTN*, *TYR*, *DMRT1*, and *HEMGN*.  
-My current research is about chicken genome editing using adenoviral CRISPR-Cas vectors and focusing on *MSTN* and *TYR* genes that relate to muscle development and melanin synthesis respectively. Meanwhile, I developed a low-cost and practical workflow based on amplicon sequencing to analyze CRISPR-induced mutations.  
-One SCI paper and two conference abstracts were published, two conference abstracts were accepted, and one patent was applied.  
-Now I'm validating *Tyrosinase* gene function by RNA-seq and working on two SCI journal papers.  
+The final goal of my current research is to figure out the function and mechanism of several important genes which severely influence the production traits, apparent traits, or disease resistances of chicken, such as *MSTN*, *TYR*, *DMRT1*, and *HEMGN*. My current research is about chicken genome editing using adenoviral CRISPR-Cas vectors and focusing on *MSTN* and *TYR* genes that relate to muscle development and melanin synthesis respectively. Meanwhile, I developed a low-cost and practical workflow based on amplicon sequencing to analyze CRISPR-induced mutations.  
+Till Apr 2021, one SCI paper and two conference abstracts were published, two conference abstracts were accepted, and one patent was applied. Now I'm validating *Tyrosinase* gene function by RNA-seq and working on two SCI journal papers.  
 
 
-__Project 1__ 
-__Chicken Leg Muscle *In Vivo* *Myostain* Gene Knockout  through Direct Injection of Adenoviral CRISPR/Cas9 Vector__  
-Bachelor dissertation
-Nov 2017 - Jun 2018
+__Project 1__  
+__Chicken Leg Muscle *In Vivo* *Myostain* Gene Knockout  through Direct Injection of Adenoviral CRISPR-Cas9 Vector__  
+Bachelor dissertation, Nov 2017 - Jun 2018
 
 <img src="/images/ijms.png">
 
-To investigate the underlying regulatory mechanisms of chicken muscle growth and development, achieved in vivo *Myostain* gene knockout on  leg muscle through direct injection of adenoviral Cas9 vector and validated *Myostain* gene function by RNA-seq and *in vivo* fluorescence imaging.
-We injected adenoviral CRISPR-Cas9 vector aiming *MSTN* gene, a potential inhibitor of muscle growth and development, into leg muscle of postnatal broiler and then performed transcriptome analysis on knock-out (KO) muscles and wild-type (WT) muscles.
-
-
+* To investigate the underlying regulatory mechanisms of chicken muscle growth and development
+* Achieved *in vivo* *MSTN* gene knockout on broiler leg muscle  through direct injection of adenoviral Cas9 vector, and performed *in vivo* fluorescence imaging, sanger sequencing, and RNA-seq to analyze *MSTN* gene pathways  
+* Large-fragment deletion of *MSTN* was achieved in all knockout chicken, and the expression of *MSTN* was downregulated. GO enrichment and IPA analysis revealed many genes that interacted with *MSTN*.  
+* Opened up new avenues for gene function and mechanism  studies in avian species
 <br>
 
-
-
-
-
-__Project 2__
-__A Low-cost and Practical Workflow based on Amplicon Sequencing for Analyzing CRISPR-induced Mutations__
+__Project 2__  
+__A Low-cost and Practical Workflow based on Amplicon Sequencing for Analyzing CRISPR-induced Mutations__  
 Aug 2020 - Apr 2021
 
 <img src="/images/seq.png">
+
 * To analyze CRISPR-induced genome mutations accurately and more cheaply, developed a low-cost and practical workflow based on amplicon sequencing.  
 
+<br>  
 
-__Project 3__
+__Project 3__  
 __Chicken *Tyrosinase* Gene Knockout through Dorsal Aorta Direct Injection of Adenoviral CRISPR/Cas9 Vector__  
-Master dissertation
-Jul 2018 - Present
+Master dissertation, Jul 2018 - Present
 
 <img src="/images/tyr1.png">
 

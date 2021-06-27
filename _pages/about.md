@@ -12,7 +12,6 @@ redirect_from:
 I'm Chengxiao Han [[CV]](/files/Chengxiao_Han_CV.pdf), a master graduate from Shanghai Jiao Tong University (SJTU) advised by [Prof. He Meng](http://www.agri.sjtu.edu.cn/En/Data/View/2947).
 
 My current research interests lie at genome editing using CRISPR/Cas system. I'm passionate about using such powerful biotechnical tools to solve different problems in life science. I'm very open to collaborate with others.  
-<br>
 
 <!--
 # __Recent News__
@@ -24,7 +23,6 @@ My current research interests lie at genome editing using CRISPR/Cas system. I'm
 * Apr 2020: Article named *Effective MSTN gene knockout by AdV-delivered CRISPR/Cas9 in postnatal chick leg muscle* published in *International Journal of Molecular Sciences*.
 <br>
 -->
-
 ## __Education__
 
 * __MSc with Honors in Animal Science, SJTU (Sept 2018 - Mar 2021)__  
@@ -35,7 +33,6 @@ My current research interests lie at genome editing using CRISPR/Cas system. I'm
 * __BSc in Animal Science, SJTU (Sept 2014 - Jun 2018)__  
   Cumulative GPA: 3.56/4.0  
   Core Courses: Genetics (96/100), Bioinformatics (95/100), Biostatistics (94/100), Animal Microbiology (92/100)
-<br>
 
 ## __Honors, Awards and Memberships__  
 

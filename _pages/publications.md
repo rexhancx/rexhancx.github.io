@@ -27,8 +27,7 @@ Published
 * __Construction of Tn5-inserted Mutants in *Tal* Genes of *Xanthomonas Axonopodis* Pv. *Glycines*__  
 K. Huang, __C. Han__, Q. Tan, L. Cai, W. Ma, L. Zou and G. Chen  
 __*Journal of Shanghai Jiao Tong University (Agricultural Science)*__  
-Published
-<br>
+Published  
 
 ## __Conference Abstracts__
 ---
@@ -51,7 +50,6 @@ Published
 H. Luo, __C. Han__, K. Xu, C. He, J. Ding, H. Zhou, Y. Zheng, F. Akinyemi and H. Meng  
 __*20th Chinese National Conference on Animal Genetics & Breeding*__, Guangzhou, China  
 Published  
-
 
 ## __Patent__
 ---
