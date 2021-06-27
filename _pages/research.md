@@ -6,11 +6,11 @@ author_profile: true
 ---
 ## __Current Research__  
 ---
->All my current research is advised by [Prof. He Meng](http://www.agri.sjtu.edu.cn/En/Data/View/2947) at Shanghai Key Laboratory of Veterinary Biotechnology, SJTU. 
-The final goal of my current research is to figure out the function and mechanism of several important genes which severely influence the production traits, apparent traits, or disease resistances of chicken, such as *MSTN*, *TYR*, *DMRT1*, and *HEMGN*.
-My current research is about chicken genome editing using adenoviral CRISPR-Cas vectors and focusing on *MSTN* and *TYR* genes that relate to muscle development and melanin synthesis respectively. Meanwhile, I developed a low-cost and practical workflow based on amplicon sequencing to analyze CRISPR-induced mutations.
-One SCI paper and two conference abstracts were published, two conference abstracts were accepted, and one patent was applied.
-Now I'm validating *Tyrosinase* gene function by RNA-seq and working on two SCI journal papers.
+>All my current research is advised by [Prof. He Meng](http://www.agri.sjtu.edu.cn/En/Data/View/2947) at Shanghai Key Laboratory of Veterinary Biotechnology, SJTU.  
+The final goal of my current research is to figure out the function and mechanism of several important genes which severely influence the production traits, apparent traits, or disease resistances of chicken, such as *MSTN*, *TYR*, *DMRT1*, and *HEMGN*.  
+My current research is about chicken genome editing using adenoviral CRISPR-Cas vectors and focusing on *MSTN* and *TYR* genes that relate to muscle development and melanin synthesis respectively. Meanwhile, I developed a low-cost and practical workflow based on amplicon sequencing to analyze CRISPR-induced mutations.  
+One SCI paper and two conference abstracts were published, two conference abstracts were accepted, and one patent was applied.  
+Now I'm validating *Tyrosinase* gene function by RNA-seq and working on two SCI journal papers.  
 
 
 __Project 1__ 
