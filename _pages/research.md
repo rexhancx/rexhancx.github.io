@@ -17,6 +17,7 @@ Bachelor dissertation, Nov 2017 - Jun 2018
 
 <img src="/images/ijms.jpg">
 
+* Previous findings about chicken muscle growth and development were not clear
 * To investigate the underlying regulatory mechanisms of chicken muscle growth and development
 * Achieved *in vivo* *MSTN* gene knockout on broiler leg muscle  through direct injection of adenoviral Cas9 vector, and performed *in vivo* fluorescence imaging, sanger sequencing, and RNA-seq to analyze *MSTN* gene pathways  
 * Large-fragment deletion of *MSTN* was achieved in all knockout chicken, and the expression of *MSTN* was downregulated. GO enrichment and IPA analysis revealed many genes that interacted with *MSTN*.  
@@ -27,10 +28,16 @@ Bachelor dissertation, Nov 2017 - Jun 2018
 __Project 2__  
 __A Low-cost and Practical Workflow based on Amplicon Sequencing for Analyzing CRISPR-induced Mutations__  
 Aug 2020 - Apr 2021
-
 <img src="/images/seq.png">
+<img src="/images/ngs.jpg">
 
-* To analyze CRISPR-induced genome mutations accurately and more cheaply, developed a low-cost and practical workflow based on amplicon sequencing.  
+* The high cost and complicated workflow hindered the wide use of NGS methods in CRISPR-induced mutations analysis currently 
+* To improve the analyze CRISPR-induced genome mutations accurately and more cheaply
+* developed a low-cost and practical workflow based on amplicon sequencing.  
+Paired barcoded primers allow multiple samples in one run and reduce the number of primers.
+NovaSeq 6000 system is up-to-date and efficient which can save both money and time.
+CRISPResso2 runs on bio-conda environment. The outputs is visualized and vivid.
+
 
 <br>  
 
