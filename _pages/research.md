@@ -15,12 +15,13 @@ __Project 1__
 __Chicken Leg Muscle *In Vivo* *Myostain* Gene Knockout  through Direct Injection of Adenoviral CRISPR-Cas9 Vector__  
 Bachelor dissertation, Nov 2017 - Jun 2018
 
-<img src="/images/ijms.png">
+<img src="/images/ijms.jpg">
 
 * To investigate the underlying regulatory mechanisms of chicken muscle growth and development
 * Achieved *in vivo* *MSTN* gene knockout on broiler leg muscle  through direct injection of adenoviral Cas9 vector, and performed *in vivo* fluorescence imaging, sanger sequencing, and RNA-seq to analyze *MSTN* gene pathways  
 * Large-fragment deletion of *MSTN* was achieved in all knockout chicken, and the expression of *MSTN* was downregulated. GO enrichment and IPA analysis revealed many genes that interacted with *MSTN*.  
 * Opened up new avenues for gene function and mechanism  studies in avian species
+
 <br>
 
 __Project 2__  
