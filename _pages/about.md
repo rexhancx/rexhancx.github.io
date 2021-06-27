@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## __About Me__  
 
-I'm Chengxiao Han [[CV]](/files/Chengxiao_Han_CV.pdf), a master graduate from Shanghai Jiao Tong University (SJTU) advised by [Prof. He Meng](http://www.agri.sjtu.edu.cn/Data/View/2258).
+I'm Chengxiao Han [[CV]](/files/Chengxiao_Han_CV.pdf), a master graduate from Shanghai Jiao Tong University (SJTU) advised by [Prof. He Meng](http://www.agri.sjtu.edu.cn/En/Data/View/2947).
 
 My current research interests lie at genome editing using CRISPR/Cas system. I'm passionate about using such powerful biotechnical tools to solve different problems in life science. I'm very open to collaborate with others.  
 <br>
