@@ -35,7 +35,12 @@ Published
  __C. Han__, K. Xu, H. Zhou, C. Qin, H. Luo, J. Ding and H. Meng  
 __*16th Biology Youth Forum (Shanghai Society of Cell Biology)*__, Shanghai, China  
 Accepted
-  
+
+* __*MSTN* Gene-editing Vector Injection into Chicken Embryo Dorsal Aorta and Tissue Knockout Efficiency Analysis__  
+K. Xu,C. Han, H. Zhou, C. Qin, H. Luo, J. Liu, W. Zhu, C. He, J. Ding, J. Zhu, F. Akinyemi, K. Chen and H. Meng  
+__*20th National Poultry Science Conference*__, Harbin, China.   
+Oral
+
 * __*MSTN* Gene Knockout Changes the Transcriptome Profile in Chick Leg Muscle__  
   K. Xu, __C. Han__, H. Zhou, J. Ding, Z. Xu, L. Yang, C. He, F. Akinyemi, Y. Zheng, C. Qin, H. Luo and H. Meng  
 __*World Poultry Science Association Congress 2021*__, Paris, France  
